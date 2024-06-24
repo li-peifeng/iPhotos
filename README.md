@@ -6,7 +6,7 @@
 ![types](https://badgen.net/npm/types/lightgallery?color=blue)
 ![hits](https://badgen.net/jsdelivr/hits/npm/lightgallery?color=pink)
 
-# 此仓库fork自lightgallery，只修改了loading图标及相关代码。
+# 此仓库只修改了loading图标及相关代码。
 
 # lightGallery
 
