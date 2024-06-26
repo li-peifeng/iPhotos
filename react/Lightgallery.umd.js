@@ -182,7 +182,7 @@
             nextSlide: 'Next slide',
             download: 'Download',
             playVideo: 'Play video',
-            mediaLoadingFailed: 'Oops... Failed to load content...',
+            mediaLoadingFailed: '当前媒体载入失败',
         },
     };
 
