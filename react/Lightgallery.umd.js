@@ -32,7 +32,7 @@
     }
 
     /*!
-     * lightgallery | 2.8.0-beta.2 | April 25th 2024
+     * lightgallery | 2.8.0 | JUL 26th 2024
      * http://www.lightgalleryjs.com/
      * Copyright (c) 2020 Sachin Neravath;
      * @license GPLv3
