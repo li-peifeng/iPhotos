@@ -33,9 +33,9 @@ const tt=(t,i)=>"method"===i.kind&&i.descriptor&&!("value"in i.descriptor)?{...i
  * SPDX-License-Identifier: BSD-3-Clause
  */
 /*!
- * lightgallery | 2.8.3 | March 1st 2025
- * http://www.lightgalleryjs.com/
- * Copyright (c) 2020 Sachin Neravath;
+ * iPhoto | 2.8.4 | 26-04-2025
+ * https://peifeng.li/
+ * Copyright (c) 2020 PeiFeng;
  * @license GPLv3
  */
 /*! *****************************************************************************
