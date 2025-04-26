@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://peifeng.li"><img width="184px" alt="logo" src="https://li-peifeng.github.io/isweet/logo.png?v=88" />
+  </a>
+</p>
+
 ![commit](https://badgen.net/github/last-commit/sachinchoolur/lightGallery/master)
 ![npm](https://img.shields.io/npm/v/lightgallery.svg?color=red)
 ![npm-tag](https://badgen.net/github/tag/sachinchoolur/lightgallery)
