@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://peifeng.li"><img width="184px" alt="logo" src="https://li-peifeng.github.io/isweet/logo.png?v=88" />
-  </a>
-</p>
-
 ![commit](https://badgen.net/github/last-commit/sachinchoolur/lightGallery/master)
 ![npm](https://img.shields.io/npm/v/lightgallery.svg?color=red)
 ![npm-tag](https://badgen.net/github/tag/sachinchoolur/lightgallery)
@@ -10,8 +5,6 @@
 ![tree-shaking](https://badgen.net/bundlephobia/tree-shaking/lightgallery?color=purple)
 ![types](https://badgen.net/npm/types/lightgallery?color=blue)
 ![hits](https://badgen.net/jsdelivr/hits/npm/lightgallery?color=pink)
-
-# 此包只修改了loading图标及相关代码。
 
 # lightGallery
 
